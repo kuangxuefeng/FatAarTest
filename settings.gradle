@@ -1,2 +1,6 @@
+include ':libMain'
+include ':libThree'
+include ':libTwo'
+include ':libFirst'
 include ':app'
 rootProject.name = "FatAarTest"
